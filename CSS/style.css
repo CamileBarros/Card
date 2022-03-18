@@ -1,0 +1,50 @@
+#background {
+    background-image: url(../images/background1.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#namecard {
+font-family: 'Courier New';
+font-style: normal;
+font-size: 24px;
+font-weight: 200;
+padding-top: 10px;
+padding-left: 5px;
+}
+
+#github {
+    
+    list-style-image: url(../images/github.png);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#linkedin {
+    
+    list-style-image: url(../images/linkedin.png);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#whatsapp {
+    
+    list-style-image: url(../images/whatsapp.png);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+    color: black;
+    
+   
+}
